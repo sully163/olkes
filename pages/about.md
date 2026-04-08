@@ -34,5 +34,3 @@ other miscellaneous divination objects. These items are primarily constructed ou
 wood (often camwood), bronze or other metals such as gold, shells, and/or plant fibers called
 "raffia." Large textiles or other two-dimensional mediums are not present in this collection.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
